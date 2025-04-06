@@ -102,6 +102,11 @@ hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "1f4c0d25fb2642923bab7a2d169e6dad7d826adf503ed8fbd056f66ee42e9d42"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
@@ -204,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "a07f5a28192fcedba35c2db7472b322b381827db29372393e9429ef13c056020"
 metafile = true
 
 [[files]]
@@ -432,6 +442,11 @@ hash = "0db86f115a313d0dce5b0068a470f6bf51faab6cbb659a2c84b0cd5e7d187072"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "c41ec1bd0cc6109f3e648254d9b2a121de2cc46a03af3a618ebdd8171b87f05e"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
@@ -442,6 +457,11 @@ hash = "18a9af79feb21c9e907d211b97242688f20d2b5008b01af7bdbdd0b938c0bbd2"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5550afd80525dfe97ca9fddd3291f3765e1328bfa9661ad9ea0aaef73d4d5873"
 metafile = true
@@ -449,6 +469,21 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "a07ab46c49c0135a7b1108eb011f6a88fed03c9261da247180c509724b0990ca"
 metafile = true
 
 [[files]]
@@ -482,8 +517,18 @@ hash = "038451ae03dc9f1f61561add2e4c31053369b01951c2d547214809669c0fc910"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "810c95d1b25f37e995427d68a3d1b1bc2d69d172896d8a36cb3dc9a71fa2429f"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "b036c389afb172b9341717f98f29cf66e15ab611f0a080d551da749218e28904"
+metafile = true
+
+[[files]]
+file = "mods/talkingheads.pw.toml"
+hash = "74606f49f2f6dc73f78709eb1b5bb490b38a78445024b58d7ce8b2ea103cf523"
 metafile = true
 
 [[files]]
