@@ -397,6 +397,11 @@ hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
 file = "mods/lambdynlights.pw.toml"
 hash = "2f63ef42a78f97ae2c88b91b5e5fa66843b27f0290d4ec9e4f594adc5b4fc48b"
 metafile = true
