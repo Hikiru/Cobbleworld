@@ -97,6 +97,11 @@ file = "config/yosbr/options.txt"
 hash = "5be0f4c13807a28059e1aec037b1a27449369be6a7e07aec5f73c2d4fb23c5e8"
 
 [[files]]
+file = "mods/adventurez.pw.toml"
+hash = "ce4d986ed254f8a270f3de8f37a6fe39a4b9ddf11fd59816687f15923bfb0164"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "850f3191a1d0d0d5795a35654394c2af9e4d7d39fc07a87e37ab703bec2f6849"
 metafile = true
 
 [[files]]
@@ -217,6 +227,11 @@ hash = "a07f5a28192fcedba35c2db7472b322b381827db29372393e9429ef13c056020"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "992fd54a7f8c0b61a0dc59458cb09b965eb5f3d7cf06a256a81970424a70332a"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "0fc3a1d40088236625c545c3f76d61e51cadca7ca1d69a196c3061d36978ae78"
 metafile = true
@@ -232,6 +247,21 @@ hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "c39b76c9fe5aa1ef19ba98d5e22af854d8b8cd8f476b3acc875419389d26b8c3"
+metafile = true
+
+[[files]]
+file = "mods/difficulty-extensions.pw.toml"
+hash = "3e86b7670738897c745666735cc7f4e5de7ce369b963eda0ef0054d0fee6fb1c"
+metafile = true
+
+[[files]]
+file = "mods/difficulty.pw.toml"
+hash = "e08f740ce2bf2875ef6bb20908352f51b3143eda9ce4879c8e1231ac93866f79"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "d6f182cfc4ec0f9ce54912628dd0552e0b765b5a64710977025e98de1188913c"
 metafile = true
@@ -244,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
+metafile = true
+
+[[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "e1d7109008b38244ae563a1a213efe1afb4d460cbd8422a6ebf75231f942ed6f"
 metafile = true
 
 [[files]]
@@ -327,8 +362,18 @@ hash = "f56578b8a2cf2de8d125e02262b7bcf0adcbc0498bf54886cee5e393689459f1"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "a0a4120479b3a00265797ba4ab4b351e7ea6730f1a0394d069da0d92165a3bd9"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "1f3911d712f35d2c163a12dbb662b9fcb067b9defc4e2751ca2cb001e2d2ea28"
 metafile = true
 
 [[files]]
@@ -374,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
+metafile = true
+
+[[files]]
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "f359fe1bc35b82fe277eab5baa6aa83d9c70329b4653d859d802d67e9661dccc"
 metafile = true
 
 [[files]]
@@ -437,6 +487,11 @@ hash = "a5e566f5a95d701f2f1bcdd02142b3c2094cb04b5884598ff937a06f1939aac2"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "0db86f115a313d0dce5b0068a470f6bf51faab6cbb659a2c84b0cd5e7d187072"
 metafile = true
@@ -492,6 +547,16 @@ hash = "08a438f3bc8e725598679eceed1f17e60231183628e5fe6b8b3b59ebac1e0368"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "f8989e6848dbe260701f9c1c9cb9a23fba6c52469aa0dedf1a2fc9087d768156"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "2592a155dfab4861f74d69654632deef08c01b60f9a64010223788d9a182debc"
 metafile = true
@@ -504,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "617147b3821be59b8dafdf00f1e409bdb11f710c25cc6c895e8873a2ca2254b1"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "5a8c11da212ada3c65feedd696b420502d7c832f1af07b790b641706e2335441"
 metafile = true
 
 [[files]]
@@ -544,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "d48ee5ef734db6bbe9ae437d31ea945a9071400bf292efc135b820cc2e1fc244"
 metafile = true
 
 [[files]]
