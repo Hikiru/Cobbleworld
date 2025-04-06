@@ -197,6 +197,11 @@ hash = "e42814880e0fb251356a3bcb3269bf47d7e8ed295e8f0d3e56787f8cabbc52d7"
 metafile = true
 
 [[files]]
+file = "mods/endrem.pw.toml"
+hash = "389c30cfae2e35405bc8efe5c5e1eb853ab8b3e031d45e889b597c581632d420"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials-shader-support.pw.toml"
 hash = "b266f3270e9da198f26827a4fd5419f73b9b67999e9b040d1b260f8e1554fb3b"
 metafile = true
