@@ -102,6 +102,11 @@ hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "2015444afd860c79fe1ca3737053873cc44cc9cef78c6384a3c82c7df73ee57e"
 metafile = true
@@ -207,6 +212,11 @@ hash = "fdf540c4ae42d59d6c1b8e6a9fb1c8e43e990df12ce2254064d4f40294266417"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+metafile = true
+
+[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "b0479f25fa47d29a6f0f3d09df3859efc2fed95d829e24ee70765227115b8833"
 metafile = true
@@ -277,6 +287,11 @@ hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "88e0b9fa2de16838bffaafe1838d9b4d4a562eb216ba8355770caf2f4d4df52a"
 metafile = true
@@ -314,6 +329,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "038451ae03dc9f1f61561add2e4c31053369b01951c2d547214809669c0fc910"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "374f0436bbbee517b5fbc976b226aa097b1733551850b8c880bf68e6563b18f9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
 
 [[files]]
