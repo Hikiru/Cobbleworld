@@ -449,3 +449,8 @@ hash = "c1183271a7455b211de3013288e4edfa5c658e366c981b52a685efaf76315c49"
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "ffdd3f3fcb3fc1ddd2ef2270bd3345e37431fccf02fd8325e61e669ce4a743fc"
 metafile = true
+
+[[files]]
+file = "resourcepacks/cobble-icons.pw.toml"
+hash = "233fb4789fcc5437fc14521361d4d006193aa93fa1eb2780ae7365a0f56bd3c5"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Cobblemon icons"
+filename = "Cobblemon Icons V2.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wj13TXva/versions/P8ePNYpm/Cobblemon%20Icons%20V2.4.zip"
+hash-format = "sha512"
+hash = "4285bf42b220675d2a8da557b1d31c1c82780b73abe37ac07d3b3c7220ad4a7f5b66d139c615470df788de4b3896a09358d9e2393980a2c0e1501814fce103ba"
+
+[update]
+[update.modrinth]
+mod-id = "Wj13TXva"
+version = "P8ePNYpm"
