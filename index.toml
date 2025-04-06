@@ -192,6 +192,11 @@ hash = "f535eba4ed46fcf4edea6be27d4556f1cc197e218b3e466ef11e93b20b8217b5"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-knowlogy.pw.toml"
+hash = "445687e362db536f40205ee54d1bb472cb96d60b35c980d4318a4ca55c489cd1"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-ride-on!.pw.toml"
 hash = "30ed3033555d818c4e8d026160d6dc0f64cf16bfb8f38fe2d091bdebc5d78ef0"
 metafile = true
@@ -399,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/knowlogy.pw.toml"
+hash = "4ac43c9257c0a4cf7a6d7b31a62524fb1ab5662d54d906c9b6909fa6c6b65fc7"
 metafile = true
 
 [[files]]
