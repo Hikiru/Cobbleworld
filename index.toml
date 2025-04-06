@@ -107,6 +107,11 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "955bb0f19b8da0ac72a5f8b9e014fd2e0c15647fb129542791f47bbeb26fef7e"
 metafile = true
@@ -129,6 +134,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b160fa40eedcca394d73215ccc1f48d9305493a1c6a886f1e8355ea38dfe55e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-additions.pw.toml"
+hash = "eb5c5c1a58190310d6076bcdca77917e524799a1a2463435de9aaece2254210d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
+hash = "215adce43c6cdbef5b58577793177b004c45769b6cd76a6290ae6efbdb6bc321"
 metafile = true
 
 [[files]]
