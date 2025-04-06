@@ -97,6 +97,11 @@ file = "config/yosbr/options.txt"
 hash = "5be0f4c13807a28059e1aec037b1a27449369be6a7e07aec5f73c2d4fb23c5e8"
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "ac2f2661d24bf5b143a54e2dea96f9266e9bb5041e3ec7df69f22a28e9c0ff7b"
 metafile = true
 
 [[files]]
@@ -212,6 +222,11 @@ hash = "e42814880e0fb251356a3bcb3269bf47d7e8ed295e8f0d3e56787f8cabbc52d7"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "389c30cfae2e35405bc8efe5c5e1eb853ab8b3e031d45e889b597c581632d420"
 metafile = true
@@ -274,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "b0479f25fa47d29a6f0f3d09df3859efc2fed95d829e24ee70765227115b8833"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f56578b8a2cf2de8d125e02262b7bcf0adcbc0498bf54886cee5e393689459f1"
 metafile = true
 
 [[files]]
@@ -352,6 +372,11 @@ hash = "a70105438f11495884d645c716605182185dc49853a0fb85c249cdc9ca20d121"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "fa99dbeb48f3c03507014ffe00f48b0aba8d4cafc96953f5b97c1821e36c96fc"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
 metafile = true
@@ -367,8 +392,18 @@ hash = "88e0b9fa2de16838bffaafe1838d9b4d4a562eb216ba8355770caf2f4d4df52a"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "a5e566f5a95d701f2f1bcdd02142b3c2094cb04b5884598ff937a06f1939aac2"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "0db86f115a313d0dce5b0068a470f6bf51faab6cbb659a2c84b0cd5e7d187072"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "ae55eda5b79aeb01fd4068cc34051019e34779c2d4748aba86e5dba522b7b61d"
 metafile = true
 
 [[files]]
@@ -379,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5550afd80525dfe97ca9fddd3291f3765e1328bfa9661ad9ea0aaef73d4d5873"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
@@ -394,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "617147b3821be59b8dafdf00f1e409bdb11f710c25cc6c895e8873a2ca2254b1"
 metafile = true
 
 [[files]]
@@ -419,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "b5a53eb85c4b47d58d53f0bb63ae1f81b95e15f405825e72eb6d669c07702ce0"
+metafile = true
+
+[[files]]
+file = "mods/true-ending.pw.toml"
+hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
 metafile = true
 
 [[files]]
