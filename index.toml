@@ -107,6 +107,11 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "955bb0f19b8da0ac72a5f8b9e014fd2e0c15647fb129542791f47bbeb26fef7e"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "2015444afd860c79fe1ca3737053873cc44cc9cef78c6384a3c82c7df73ee57e"
 metafile = true
@@ -127,6 +132,11 @@ hash = "1b160fa40eedcca394d73215ccc1f48d9305493a1c6a886f1e8355ea38dfe55e"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-integrations.pw.toml"
+hash = "f535eba4ed46fcf4edea6be27d4556f1cc197e218b3e466ef11e93b20b8217b5"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
 metafile = true
@@ -142,8 +152,18 @@ hash = "1c694e057b1716db058a93243bcb44af84fd37e55e3417b1a6fd6d32458bac0a"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "0fc3a1d40088236625c545c3f76d61e51cadca7ca1d69a196c3061d36978ae78"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "69a92293bf58cb088924c90884c7f71808760b998b2e7070cbd7d4a9c082b877"
 metafile = true
 
 [[files]]
@@ -159,6 +179,16 @@ metafile = true
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
 hash = "e42814880e0fb251356a3bcb3269bf47d7e8ed295e8f0d3e56787f8cabbc52d7"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-shader-support.pw.toml"
+hash = "b266f3270e9da198f26827a4fd5419f73b9b67999e9b040d1b260f8e1554fb3b"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "bbf8bc92240f82704b9ff825d6e4963c1889ce32daf28f683fd6d58799c8ab77"
 metafile = true
 
 [[files]]
@@ -222,6 +252,11 @@ hash = "b0479f25fa47d29a6f0f3d09df3859efc2fed95d829e24ee70765227115b8833"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "990f8363ccc2e08afd4abc86997c42bc4f0b9058c45958080a725da650c4c551"
 metafile = true
@@ -229,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "ef0ae849e0db9dbcf57381c934de8c1c20f8867d44e099c48c737a51c6b053d1"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
 metafile = true
 
 [[files]]
@@ -322,6 +362,11 @@ hash = "2592a155dfab4861f74d69654632deef08c01b60f9a64010223788d9a182debc"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "9d9cbcddb3629a1aefa4d4d1150fc725e5423a63f55627aef4c275313a35d08c"
 metafile = true
@@ -329,6 +374,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "038451ae03dc9f1f61561add2e4c31053369b01951c2d547214809669c0fc910"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "b5a53eb85c4b47d58d53f0bb63ae1f81b95e15f405825e72eb6d669c07702ce0"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "92b4789a879513a8754cd8e6863c74270b726d29d1226a3e6624e900ff309ad2"
 metafile = true
 
 [[files]]
