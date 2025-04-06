@@ -187,6 +187,11 @@ hash = "18f45db393d99493c00150c2d4a74d927fc1eccb575629ef1a1fa72ef950b7ff"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "fd9b37c0dd351191944a8ebef602b1f0f35aaeb151dd236f773638bf8b609131"
 metafile = true
@@ -312,6 +317,11 @@ hash = "990f8363ccc2e08afd4abc86997c42bc4f0b9058c45958080a725da650c4c551"
 metafile = true
 
 [[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "ef0ae849e0db9dbcf57381c934de8c1c20f8867d44e099c48c737a51c6b053d1"
 metafile = true
@@ -374,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "a70105438f11495884d645c716605182185dc49853a0fb85c249cdc9ca20d121"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
@@ -474,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "053774568056e43aef8b9e8cb2e626c84b97546c56a453346cc9077882e3c409"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
 metafile = true
 
 [[files]]
