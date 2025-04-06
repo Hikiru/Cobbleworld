@@ -332,6 +332,11 @@ hash = "0bf519c81bdf898ad3b9ad4ba4172427e90f82429669d85d6c12f7acfc3712aa"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "e3662be158bc3182d4c0f5a6149944e9bb13bf21cbffc1b51a1fa60d28e3b4fb"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "c3d0746be98e5f5eaf1731a84e84724289f45f6b49836c5106e8d4669d3f84ec"
 metafile = true
@@ -394,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "038451ae03dc9f1f61561add2e4c31053369b01951c2d547214809669c0fc910"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b036c389afb172b9341717f98f29cf66e15ab611f0a080d551da749218e28904"
 metafile = true
 
 [[files]]
