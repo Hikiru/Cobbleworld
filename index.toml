@@ -801,3 +801,8 @@ metafile = true
 file = "resourcepacks/cobble-icons.pw.toml"
 hash = "233fb4789fcc5437fc14521361d4d006193aa93fa1eb2780ae7365a0f56bd3c5"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+metafile = true
