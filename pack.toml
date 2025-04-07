@@ -1,12 +1,12 @@
 name = "Cobbleworld Alpha"
 author = "Hikiru"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6bc918c523c06d52d25412ec0d2667a4fc4acf381bbe0ece8f893f51f0c7c727"
+hash = "f8958aede8708964f01817c2159a5d96047e1181c1a4a886c243e20f61622c71"
 
 [versions]
 fabric = "0.16.12"

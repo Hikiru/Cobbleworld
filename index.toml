@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/difficulty.pw.toml"
-hash = "e08f740ce2bf2875ef6bb20908352f51b3143eda9ce4879c8e1231ac93866f79"
+hash = "225747eea8d2f9d3103f75e48377502985a856dc7b52994e1851525c1d68ad68"
 metafile = true
 
 [[files]]
@@ -575,17 +575,32 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-groups.pw.toml"
-hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
+hash = "0b65ce0dc7f2556c0fbf900a2d955ea8685d7ebe85800346d96d527a882c6bef"
 metafile = true
 
 [[files]]
 file = "mods/pv-addon-sculk.pw.toml"
-hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+hash = "a773b5cc4ca2a6db78f6b265f4ad1dd0462391a8953d8b6d11a0cd0496341b40"
 metafile = true
 
 [[files]]
 file = "mods/pv-addon-soundphysics.pw.toml"
 hash = "a07ab46c49c0135a7b1108eb011f6a88fed03c9261da247180c509724b0990ca"
+metafile = true
+
+[[files]]
+file = "mods/rad-gyms.pw.toml"
+hash = "433722fe347e5e4581757e9969d6286668fb395ef5655479fc42f5e0be94d58d"
+metafile = true
+
+[[files]]
+file = "mods/rctapi.pw.toml"
+hash = "3d4ddbeacd1ee13c5c0e8a4ba300ecce0e58b6d59e66658a362fabd9b1ce4d91"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "d164cc569e997779edfa6e965eef98fa22349f4643650cf4f4130f7e76bad131"
 metafile = true
 
 [[files]]
@@ -620,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "5a8c11da212ada3c65feedd696b420502d7c832f1af07b790b641706e2335441"
+hash = "24fcb9fd67eda6c2d2d6a89689e1f63be2c2d630644d5d1d9312018c250b320c"
 metafile = true
 
 [[files]]
@@ -640,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b036c389afb172b9341717f98f29cf66e15ab611f0a080d551da749218e28904"
+hash = "1bf14b15508b3d9be18f9cb847b9e1ec5ca64eeb47d8f6c222e58f24bb3c5054"
 metafile = true
 
 [[files]]
@@ -670,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
+hash = "384337b9af46d36f7d45fbbd1e9ea5801704df31a0db000f862e16aac71c24a7"
 metafile = true
 
 [[files]]
@@ -715,47 +730,47 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "30c81f667b06ad090542f51753645ca8541908c225cc0d9106f725560eb51914"
+hash = "30409d56313a0b9d395e779d6d628ddf06c609f7094a9765b87cb0c466b7b748"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "ffcf32caf3dda8f05adb109dc86c477cf1bb768bac6232bc5bcf0d60a7861bcb"
+hash = "08c12b515261f297770fa17af2508f263ccb9c2b30333979cd3c3b0fbbbef23f"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "a9f7ce3ef90cd500e451ff6534d42f0532150d5f207c974468295fbe8c7b5a47"
+hash = "828821c78792f0e594d3a0021780256d2a54cf4106f35a230325f91e8a8d65c3"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "9ebe3f899af40f9bec87d76c2c3dc85004278d30165fcbc0020a11d47da5d35e"
+hash = "2297550cf2e46a7713f5da8388aa55bb78afd3a5c948e9a183cb0a5c509805ae"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "eccab4f9bcbc604767e9794ca746588f673db63f85bd63adf0b505b396a3c23c"
+hash = "95a58cb02bde21978340d0b118c46c96fdfd00d4b34ebefaf4854f2d57ab0875"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "e21364ae8970aed945a502a2002fb58beb373afb83200a53d3aa4cbc84e08dc4"
+hash = "50b15044d35c66e35253d96ebd7290927c4584628b2ca7b844e5bd4e98ebb6b5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "15ef858f138af87eb7376988107cb6f61bccf578c4c8bcca44a473a0ca128e41"
+hash = "07e0336af8b05dfb80a7c1a4e02aad5336afc0b6092d26da6fb3f4a19b2025b6"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "66e4fca8e34915da64ec530a9153500271016e2086752a7f196f71a5c6135d84"
+hash = "73465bc3659e3a096d92ef591b7f039711c8d4a016169fb06f482dcd4a9862eb"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "1bd0ba1128e6ae3f926298c2ffe33180cca75362fae3bd92146d43977297f01c"
+hash = "5a719ef389f3637198db988bcef0cb3b444014b1eaa004505f869dae7d4a83fa"
 metafile = true
 
 [[files]]
