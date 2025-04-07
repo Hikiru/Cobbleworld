@@ -212,6 +212,11 @@ hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "fd9b37c0dd351191944a8ebef602b1f0f35aaeb151dd236f773638bf8b609131"
 metafile = true
@@ -374,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
@@ -639,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "d02a8a94ab9de943ee0e07a9e68b15fccbfedbf7a7662df18276401c0812cb19"
 metafile = true
 
 [[files]]
