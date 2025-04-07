@@ -239,6 +239,11 @@ hash = "1c694e057b1716db058a93243bcb44af84fd37e55e3417b1a6fd6d32458bac0a"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
 metafile = true
@@ -426,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/keybind-fix-plus.pw.toml"
+hash = "ef8dd74a596bd5ed6defdbb88d3dc1c61df53de1bd2871870d385e62591896b8"
 metafile = true
 
 [[files]]
@@ -621,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "2592a155dfab4861f74d69654632deef08c01b60f9a64010223788d9a182debc"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
