@@ -25,6 +25,18 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
+file = "config/yosbr/config/biomesoplenty/biome_toggles.json"
+hash = "14ac8bb7b39257bbde68275adabf193c60047500750535111b7b73a88655c37c"
+
+[[files]]
+file = "config/yosbr/config/biomesoplenty/gameplay.toml"
+hash = "b9abd11468b8f1a0a56024f78e27cc6d79c2cce4cce8754b1ba4f0f44289a741"
+
+[[files]]
+file = "config/yosbr/config/biomesoplenty/generation.toml"
+hash = "428c8be557854161e82b21b5654d2865b9b0c53bba969f20398568f94d4ae030"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
 
