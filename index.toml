@@ -457,6 +457,11 @@ hash = "ef0ae849e0db9dbcf57381c934de8c1c20f8867d44e099c48c737a51c6b053d1"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
 metafile = true
@@ -789,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "0872e0697edfd6cada47815488d210c623ef6ba6aba17cfd271b4faa4af54439"
 metafile = true
 
 [[files]]
