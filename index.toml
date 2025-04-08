@@ -105,6 +105,10 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
+file = "config/yosbr/config/talkingheads.json"
+hash = "bd698bb9194810141207b670ab237652d5ee47f9817259760efa2340cf0cb5c5"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "5be0f4c13807a28059e1aec037b1a27449369be6a7e07aec5f73c2d4fb23c5e8"
 
@@ -136,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
@@ -694,6 +703,11 @@ hash = "1bf14b15508b3d9be18f9cb847b9e1ec5ca64eeb47d8f6c222e58f24bb3c5054"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
 file = "mods/talkingheads.pw.toml"
 hash = "74606f49f2f6dc73f78709eb1b5bb490b38a78445024b58d7ce8b2ea103cf523"
 metafile = true
@@ -736,16 +750,6 @@ metafile = true
 [[files]]
 file = "mods/worldweaver.pw.toml"
 hash = "d3dccbd68486d3b35054b5a716051fa01a916d808a2aa78a0ada72b31f08c428"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "374f0436bbbee517b5fbc976b226aa097b1733551850b8c880bf68e6563b18f9"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
 
 [[files]]
@@ -831,11 +835,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobbletowns-continued.pw.toml"
 hash = "8fdd96f0b0706a1ac558e4be56c1b6b0e6442de3d68254d81c0d07fb79902ac3"
-metafile = true
-
-[[files]]
-file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "a9085bdca612598203c5fa7c5c6c06a9e33cd24a8fb6e1e727413c2722e4d4eb"
 metafile = true
 
 [[files]]
