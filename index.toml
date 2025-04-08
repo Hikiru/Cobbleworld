@@ -109,6 +109,11 @@ file = "config/yosbr/options.txt"
 hash = "5be0f4c13807a28059e1aec037b1a27449369be6a7e07aec5f73c2d4fb23c5e8"
 
 [[files]]
+file = "datapacks/cobblemon-additions.pw.toml"
+hash = "c31d3776a2361f758c32c1a2f4cbb654228c69045b7496daf10631e2221ed2f0"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "ce4d986ed254f8a270f3de8f37a6fe39a4b9ddf11fd59816687f15923bfb0164"
 metafile = true
@@ -194,11 +199,6 @@ hash = "1b160fa40eedcca394d73215ccc1f48d9305493a1c6a886f1e8355ea38dfe55e"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-additions.pw.toml"
-hash = "eb5c5c1a58190310d6076bcdca77917e524799a1a2463435de9aaece2254210d"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "215adce43c6cdbef5b58577793177b004c45769b6cd76a6290ae6efbdb6bc321"
 metafile = true
@@ -211,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-knowlogy.pw.toml"
 hash = "445687e362db536f40205ee54d1bb472cb96d60b35c980d4318a4ca55c489cd1"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-legendary-structures.pw.toml"
+hash = "516f919c449af1af67374a500c385e4cb9ec26450edd1de4b85dd97895958bf5"
 metafile = true
 
 [[files]]
@@ -271,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "69a92293bf58cb088924c90884c7f71808760b998b2e7070cbd7d4a9c082b877"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "db09817086e9e99df3784b74e4a74ef57eceef537ef8443e9d50dacb5040e83f"
 metafile = true
 
 [[files]]
@@ -466,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "427a352ffd706af44b8626175b3a735c8a70f8e42272abcf29a391843e28fd31"
+metafile = true
+
+[[files]]
+file = "mods/loot-table-modifier.pw.toml"
+hash = "810391acb6e52e6cf69eac50517a7ad1090150dca7bdda4f93a20ddb19699e3e"
 metafile = true
 
 [[files]]
@@ -811,6 +826,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "ffdd3f3fcb3fc1ddd2ef2270bd3345e37431fccf02fd8325e61e669ce4a743fc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobbletowns-continued.pw.toml"
+hash = "8fdd96f0b0706a1ac558e4be56c1b6b0e6442de3d68254d81c0d07fb79902ac3"
 metafile = true
 
 [[files]]
