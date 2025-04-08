@@ -25,6 +25,10 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
+file = "config/yosbr/config/adventurez.json5"
+hash = "b0f93fcba6d28265c8db9630c6120e538b2766c7da1f4fc405fe9382c401a892"
+
+[[files]]
 file = "config/yosbr/config/biomesoplenty/biome_toggles.json"
 hash = "14ac8bb7b39257bbde68275adabf193c60047500750535111b7b73a88655c37c"
 
@@ -110,7 +114,7 @@ hash = "bd698bb9194810141207b670ab237652d5ee47f9817259760efa2340cf0cb5c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5be0f4c13807a28059e1aec037b1a27449369be6a7e07aec5f73c2d4fb23c5e8"
+hash = "64292c547acd71d3c05c414ba596d8ee3bfd4179d1696b2a3b5e395a0cf6767f"
 
 [[files]]
 file = "datapacks/cobblemon-additions.pw.toml"
@@ -393,6 +397,11 @@ hash = "fdf540c4ae42d59d6c1b8e6a9fb1c8e43e990df12ce2254064d4f40294266417"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "24602918bfcb1c3289563e9371fbfe09c9d0307167b44ae3ceb81fc925a9cb26"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
@@ -455,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2258101febe4533456e6727e859bbb630c8162b10fe08905a14ba5023ad73a37"
 metafile = true
 
 [[files]]
@@ -545,6 +559,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "fa99dbeb48f3c03507014ffe00f48b0aba8d4cafc96953f5b97c1821e36c96fc"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
 metafile = true
 
 [[files]]
@@ -693,6 +712,16 @@ hash = "038451ae03dc9f1f61561add2e4c31053369b01951c2d547214809669c0fc910"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "2e1fa3d93448a60052fa00582b94b999bc3b37d7f78fee1eff4bd8d34876437c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "dbbec975cde40fa92d7ee88d434e5032e4c4ceb57ac8088a3af1c2558306e907"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "810c95d1b25f37e995427d68a3d1b1bc2d69d172896d8a36cb3dc9a71fa2429f"
 metafile = true
@@ -826,6 +855,10 @@ metafile = true
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
 hash = "5be451b61321fa135382e5e93772e1093464254cd1bba622e3823cbfff2308c2"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "c1183271a7455b211de3013288e4edfa5c658e366c981b52a685efaf76315c49"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
